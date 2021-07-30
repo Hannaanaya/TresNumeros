@@ -1,0 +1,13 @@
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\obj\Debug\netcoreapp3.1\Tres números.csproj.AssemblyReference.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\obj\Debug\netcoreapp3.1\Tres números.AssemblyInfoInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\obj\Debug\netcoreapp3.1\Tres números.AssemblyInfo.cs
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\obj\Debug\netcoreapp3.1\Tres números.csproj.CoreCompileInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\bin\Debug\netcoreapp3.1\Tres números.exe
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\bin\Debug\netcoreapp3.1\Tres números.deps.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\bin\Debug\netcoreapp3.1\Tres números.runtimeconfig.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\bin\Debug\netcoreapp3.1\Tres números.runtimeconfig.dev.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\bin\Debug\netcoreapp3.1\Tres números.dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\bin\Debug\netcoreapp3.1\Tres números.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\obj\Debug\netcoreapp3.1\Tres números.dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\obj\Debug\netcoreapp3.1\Tres números.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Tres números\obj\Debug\netcoreapp3.1\Tres números.genruntimeconfig.cache
